@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+}
+
+.baslik{
+    text-align: center;
+}
+
+.malzeme{
+    float: left;
+    padding-left: 100px;
+}
+
+.üzeriiçin{
+    float: left;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 4px;
+}
+
+.süs{
+    padding-top: 1px;
+}
+
+.baslik2{
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 380px;
+}
+
+.nasil{
+    padding-left: 300px;
+
+}
+.footer{
+    text-align: center;
+}
